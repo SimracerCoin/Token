@@ -26,6 +26,8 @@ Whitepaper: https://simracercoin.org/wp-content/uploads/2020/02/srcwhitepaper.pd
 
 Twitter: https://twitter.com/simracercoin
 
+Telegram: https://t.me/simracercoin
+
 Discord: https://discord.gg/BUdc4Ca
 
 ## Contact us

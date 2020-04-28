@@ -11,8 +11,11 @@ Simracer Coin, a standard ERC-20 Token deployed in the Ethereum Blokchain, will 
 The SRC token is a standard ERC-20 token secured by the Ethereum blockchain, with the following details:
 
 Token Name: Simracer Coin
+
 Symbol: SRC
+
 Token Type: ERC-20
+
 Total Supply: 200,000,000 SRC Tokens
 
 ## Useful links
